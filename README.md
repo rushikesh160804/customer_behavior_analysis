@@ -1,2 +1,2 @@
 # customer_behavior_analysis
-this is customer behavior alalysis using python, sql, power bi for dashbord
+Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
